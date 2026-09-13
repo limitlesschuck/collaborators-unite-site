@@ -1,0 +1,393 @@
+{
+  "site": {
+    "name": "Collaborators UNITE",
+    "tagline": "The Collaborators UNITE Experience",
+    "email": "chuck@eventaffiliates.com",
+    "domain": "CollaboratorsUniteExperience.com",
+    "optin_url": "https://go.collaboratorsunite.com/optin",
+    "vip_url": "/vip.html",
+    "thankyou_url": "/thank-you.html",
+    "privacy_url": "/privacy.html",
+    "terms_url": "/terms.html"
+  },
+  "event": {
+    "name": "The Collaborators UNITE Experience",
+    "dates": "November 16–18, 2026",
+    "type": "3-Day Live Virtual Summit",
+    "platform": "Zoom",
+    "price_free": "Free",
+    "registrations_goal": "1,000+",
+    "live_attendees": "200+",
+    "speakers_count": "25+"
+  },
+  "landing": {
+    "hero": {
+      "pill": "3-Day Live Virtual Summit · November 16–18, 2026 · Free",
+      "headline": "Your Next Client Is Already on Someone Else's List.",
+      "subheadline": "Most coaches and consultants spend years posting content and waiting on referrals. They never realize their ideal clients are already gathered in someone else's community, ready to buy. This event shows you how to reach them.",
+      "event_line": "3-Day Live Virtual Summit · November 16–18, 2026",
+      "cta": "Save My Free Spot Now →",
+      "cred": ["200+ Live Attendees", "25+ Expert Speakers", "3 Days", "Free to Attend"]
+    },
+    "agitation": {
+      "headline": "You Don't Have a Lead Problem. You Have a Distribution Problem.",
+      "body": [
+        "Your offer is good. Your results are real. You're not lazy. You're showing up every single day.",
+        "But here's what nobody tells you:",
+        "Building an audience from scratch is the hardest, slowest, most expensive way to grow a coaching or consulting business.",
+        "Every week you spend posting and waiting is another week your ideal clients are sitting in someone else's community, on someone else's list, buying from someone else."
+      ],
+      "bullets_label": "Does this sound like you?",
+      "bullets": [
+        "You post consistently on social media, but the leads are inconsistent at best",
+        "Your best clients came from referrals, but you can't predict, replicate, or scale them",
+        "You've tried networking, but most of it leads nowhere",
+        "You know you need to reach more people, but paid ads feel risky and cold outreach feels wrong",
+        "Growth is happening, just not fast enough, and not consistently enough"
+      ],
+      "transition": "The problem isn't what you're doing. The problem is what you don't yet know."
+    },
+    "insight": {
+      "headline": "The Coaches Who Grow Consistently Figured Out One Thing You Haven't Yet.",
+      "body_1": "They stopped asking \"how do I find more clients?\"",
+      "body_2": "And started asking \"who already has my clients?\"",
+      "body_3": "Your next client is not waiting to discover you through your next Instagram post. They're already inside a community, on a list, or in a program run by someone you could be partnering with right now.",
+      "body_4": "When you learn to collaborate with the right people, people who already serve your audience, everything changes.",
+      "stops": [
+        "You stop starting from zero with every launch.",
+        "You stop depending on the algorithm.",
+        "You stop waiting on the next referral."
+      ],
+      "body_5": "Instead, you build a system. A real one. One that brings in clients consistently because it's built on relationships, not reach.",
+      "closing": "That's what the Collaborators UNITE Experience is designed to give you."
+    },
+    "three_cs": {
+      "headline": "The 3 Things Every Thriving Coaching Business Has in Common",
+      "intro": "After 25+ years helping coaches and consultants grow through partnerships, Chuck Anderson has identified the three things that separate businesses that grow consistently from those that plateau:",
+      "items": [
+        {
+          "letter": "C",
+          "num": "01",
+          "title": "CLARITY",
+          "body": "You know exactly who you serve, what makes you a valuable partner, and how to communicate it so that other people in your space want to send their audience your way. Without clarity, no one can promote you. Not even people who want to."
+        },
+        {
+          "letter": "C",
+          "num": "02",
+          "title": "CONFIDENCE",
+          "body": "You show up as someone others are genuinely excited to refer, collaborate with, and put in front of their community. Confidence isn't about being louder. It's about knowing your value so clearly that others feel it too."
+        },
+        {
+          "letter": "C",
+          "num": "03",
+          "title": "CONSISTENCY",
+          "body": "You have a repeatable system for attracting new clients that doesn't depend on your next post, your next referral, or your next launch. Consistency is the result of the right partnerships, the right structure, and the right connections."
+        }
+      ],
+      "closing": "The Collaborators UNITE Experience is built to give you all three, in three days."
+    },
+    "pillars": {
+      "headline": "Three Days. One Shift. A Business That Grows Differently After This.",
+      "intro": "This isn't a passive webinar where you sit and watch. It's a structured, interactive, three-day live experience built for established coaches, consultants, and service providers who are ready to grow through collaboration.",
+      "items": [
+        {
+          "title": "Expert Sessions",
+          "body": "World-class speakers share the exact systems, strategies, and partnership models they use to grow their businesses. Every session is live, interactive, and immediately actionable. You'll leave each one knowing exactly what to do next."
+        },
+        {
+          "title": "The Coaching Zone",
+          "body": "Our signature experience, and unlike anything you'll find at a typical virtual summit. You're pre-matched with an expert coach based on your specific needs and goals. Your session is guaranteed, scheduled, and waiting for you before the event even begins. Not random networking. A curated, fit-based introduction that could change your business."
+        },
+        {
+          "title": "Collaborate and Connect",
+          "body": "The room is intentionally filled with people who serve your audience and want to partner with you. We create the structure for those conversations to happen, and for them to continue turning into real business long after the event ends."
+        }
+      ]
+    },
+    "who_for": {
+      "headline": "This Event Was Built Specifically for You If...",
+      "bullets": [
+        "You're an established coach, consultant, or service provider with a proven offer and real client results",
+        "You're tired of inconsistent leads and ready for a more reliable path to new clients",
+        "You've been relying on referrals or content and know deep down there has to be a better way",
+        "You're ready to stop building alone and start growing through strategic, mutually beneficial partnerships",
+        "You want real, meaningful connections with people who already serve your audience, not a stack of business cards"
+      ],
+      "quote": "Your next client is already out there. They just need a bridge to get to you. We're going to help you build it.",
+      "quote_attribution": "Chuck Anderson"
+    },
+    "who_not": {
+      "headline": "Let's Be Honest. This Might Not Be for You.",
+      "intro": "We'd rather tell you upfront than waste your time. This event is not for everyone, and that's intentional.",
+      "bullets": [
+        "You're still figuring out your offer or haven't worked with paying clients yet. Come back when you have something proven to bring to the table",
+        "You're looking for a shortcut that doesn't involve building real relationships. There isn't one here",
+        "You want access to other people's audiences without contributing value in return. That's not how this works",
+        "You're not open to doing things differently than you've been doing them. This event will challenge your current approach",
+        "You're here to collect contacts, not create connections. The people in this room deserve better than that"
+      ],
+      "closing_1": "We're intentionally building a room full of people who have something real to offer. That's what makes every introduction valuable, for everyone.",
+      "closing_2": "If that's you, keep reading. You're in the right place."
+    },
+    "outcomes": {
+      "headline": "Here's What Changes After Three Days",
+      "intro": "Not theory. Not inspiration that fades by Monday. Real, actionable outcomes you can implement the week after the event ends.",
+      "bullets": [
+        "Clarity on exactly who your ideal collaboration partner is, and a proven approach for reaching out to them",
+        "Confidence in how you position yourself so that other people in your space are excited to promote you and send their audience your way",
+        "Consistency: a partnership-based client acquisition system you can repeat, refine, and scale",
+        "Real connections with coaches, consultants, and service providers who serve your audience and are actively looking to collaborate",
+        "At least one conversation from inside this event that has real potential to bring you new clients",
+        "A 90-day partnership plan so you leave with next steps, not just notes"
+      ]
+    },
+    "speakers": {
+      "headline": "Learn from People Who've Actually Done It",
+      "subheadline": "These are some of the experts who have shared the Collaborators UNITE stage. They didn't build their businesses through ads or cold outreach. They built them through collaboration, partnerships, and showing up for their communities.",
+      "items": [
+        { "name": "Chuck Anderson", "title": "Affiliate Partnership Expert & Host", "photo": "" },
+        { "name": "David Riklan", "title": "Founder, SelfGrowth.com & JV Directory", "photo": "" },
+        { "name": "Janelle Anderson", "title": "Workshop & Coaching Program Expert", "photo": "" },
+        { "name": "Yvonne McCoy", "title": "Visibility Strategist", "photo": "" }
+      ],
+      "more_text": "More speakers being announced soon. Register now to be the first to know who's joining us."
+    },
+    "coaching_zone": {
+      "label": "The Coaching Zone",
+      "headline": "The Most Valuable 45 Minutes You'll Have All Year",
+      "sub": "Included in the event experience. Details are shared after you register.",
+      "body": [
+        "Most virtual events end with a long list of people you meant to follow up with and never did.",
+        "The Coaching Zone is different.",
+        "Before the event begins, you're matched with an expert coach based on the specific challenge you're facing. Not randomly assigned, not first-come-first-served. A real, curated, fit-based match.",
+        "Your session is scheduled. Your coach has reviewed your profile. You show up knowing exactly what you're working on, and you leave with a real plan from someone who specializes in exactly what you need."
+      ],
+      "rows": [
+        {
+          "head": "Matched by Fit",
+          "body": "You indicate what kind of help you need. Your coach flags who they're best positioned to help. We finalize the match so you don't have to chase anyone down."
+        },
+        {
+          "head": "Your Session Is Guaranteed",
+          "body": "This isn't a \"maybe if there's time\" conversation. It's a confirmed, scheduled session waiting for you before the event even starts."
+        },
+        {
+          "head": "Real Conversations. Real Results.",
+          "body": "Not a pitch. Not a discovery call disguised as coaching. A structured conversation with a real expert about your real challenges."
+        }
+      ]
+    },
+    "testimonials": {
+      "headline": "Here's What Happens When You Get in the Right Room",
+      "items": [
+        {
+          "quote": "[2-4 sentence quote about a specific result: new clients, partnerships formed, revenue generated, or a business shift after attending.]",
+          "name": "[First Name Last Name]",
+          "title": "[Title]"
+        },
+        {
+          "quote": "[2-4 sentence quote focused on connections made or clarity gained: specific and outcome-focused, not generic praise.]",
+          "name": "[First Name Last Name]",
+          "title": "[Title]"
+        },
+        {
+          "quote": "[2-4 sentence quote about what changed in their business after applying what they learned: ideally with a number or specific result.]",
+          "name": "[First Name Last Name]",
+          "title": "[Title]"
+        }
+      ]
+    },
+    "host": {
+      "label": "About your host",
+      "headline": "The Person Behind This Event",
+      "body": [
+        "Chuck Anderson has spent 25+ years helping coaches, consultants, and service providers grow their businesses through affiliate partnerships and JV collaborations.",
+        "He's the founder of EventAffiliates.com, host of the Collaborators UNITE podcast, and the person behind some of the most productive partnership events in the coaching and consulting space.",
+        "His core belief, the one that drives everything he teaches, is simple:"
+      ],
+      "quote": "Your next client is already on someone else's list. You just need the right system, the right connections, and the right room to find them.",
+      "closing": "The Collaborators UNITE Experience is that room.",
+      "photo": ""
+    },
+    "final_cta": {
+      "headline": "Your Next Client Is Already Out There.",
+      "headline_gold": "Let's Go Find Them.",
+      "body": [
+        "You've been working hard. Your offer is real. Your results are real.",
+        "What's missing isn't effort. It's access.",
+        "Join us for three days and walk away with the clarity to know who to partner with, the confidence to reach out, and the consistency that comes from building your business on relationships instead of algorithms.",
+        "It's free. It's live. And it could change how you grow your business for years to come."
+      ],
+      "cta": "Save My Free Spot Now →",
+      "sub": "November 16–18, 2026 · Live Virtual Event · Free to Attend\nRegistration closes when spots are filled."
+    },
+    "faq": {
+      "headline": "Quick Answers",
+      "items": [
+        {
+          "q": "Is this really free?",
+          "a": "Yes, completely. Register below and you'll receive your access details by email. No credit card required."
+        },
+        {
+          "q": "What platform does this run on?",
+          "a": "The event runs live on Zoom. You'll get your login details after registering. All you need is a computer or phone and a reliable internet connection."
+        },
+        {
+          "q": "Will there be replays?",
+          "a": "Replay access details will be shared after the event. We strongly encourage attending live because the connections happen in the room, not in the recording."
+        },
+        {
+          "q": "What is the Coaching Zone?",
+          "a": "The Coaching Zone is a structured 1-on-1 coaching experience where attendees are pre-matched with expert coaches based on their specific needs and goals. Sessions are guaranteed and scheduled before the event begins. Details on how to access the Coaching Zone are shared after you register."
+        }
+      ]
+    }
+  },
+  "vip": {
+    "price_pre": 97,
+    "price_during": 197,
+    "context": "YOU'RE REGISTERED. ONE LAST THING BEFORE YOU GO.",
+    "headline": "Wait. You Just Unlocked Something Special.",
+    "intro_1": "You registered for free, and that's a great decision. You'll get access to every speaker session, every live conversation, and every connection opportunity the event has to offer.",
+    "intro_2": "But if you're serious about walking away from this event with clarity, confidence, and a real plan for consistent client acquisition, the VIP All-Access Pass gives you something the free registration simply can't.",
+    "intro_3": "It gives you Chuck. And it gives you the room inside the room.",
+    "offer_headline": "Here's Everything You Get as a VIP",
+    "components": [
+      {
+        "num": "01",
+        "title": "A Private 1-Hour Campaign Planning Consultation with Chuck Anderson",
+        "value": "$995",
+        "body": "This is the most direct access Chuck offers. In one hour, you and Chuck will map out your specific partnership and collaboration strategy: who to reach out to, how to position yourself, and what your next 90 days should look like. You leave with a real plan built around your offer, your audience, and your goals. Not generic advice. Your plan."
+      },
+      {
+        "num": "02",
+        "title": "3 Personal Introductions to Potential Collaborators",
+        "value": "$1,500",
+        "body": "Chuck has spent 25+ years building one of the most connected networks in the coaching and consulting space. As a VIP, you receive three personal, warm introductions to people in his network who serve your audience and are actively looking to collaborate. These aren't cold connections. They're handshakes from someone they already trust."
+      },
+      {
+        "num": "03",
+        "title": "3 Guaranteed Matched Coaching Sessions in the Coaching Zone",
+        "value": "$500",
+        "body": "As a VIP, you're pre-matched with expert coaches based on your specific needs and goals. Your sessions are guaranteed, scheduled, and waiting for you before the event even begins. Not random networking. Not 'find someone and hope for the best.' A curated, fit-based match with coaches who can actually help you."
+      },
+      {
+        "num": "04",
+        "title": "Lifetime Access to All Session Recordings",
+        "value": "$995",
+        "body": "Every speaker session from all three days, fully recorded and yours to keep forever. Rewatch the sessions that hit hardest. Share them with your team. Come back to them six months from now when you're ready to implement what you heard. The recordings don't expire. Neither does the value inside them."
+      },
+      {
+        "num": "05",
+        "title": "One Full Year of Access to the Affiliate Accelerator Masterclass",
+        "value": "$295",
+        "body": "A complete training program on building and scaling a partnership-based client acquisition system. You'll learn how to recruit affiliates, structure JV partnerships, run collaborative promotions, and create the consistency that referrals and content alone can never deliver. Yours for a full year from the date of the event."
+      },
+      {
+        "num": "06",
+        "title": "Exclusive Speaker Bonus Gifts",
+        "value": "$500+",
+        "body": "Every VIP receives a curated collection of bonus resources, tools, and trainings from our speakers, delivered directly to you as part of your VIP experience. The full list will be revealed at the event. Past VIP gift collections have included templates, courses, strategy guides, and more."
+      }
+    ],
+    "total": {
+      "rows": [
+        { "label": "Private consultation with Chuck", "value": "$995" },
+        { "label": "3 personal collaborator introductions", "value": "$1,500" },
+        { "label": "3 matched Coaching Zone sessions", "value": "$500" },
+        { "label": "Lifetime session recordings", "value": "$995" },
+        { "label": "Affiliate Accelerator Masterclass (1 year)", "value": "$295" },
+        { "label": "Exclusive speaker bonus gifts", "value": "$500+" }
+      ],
+      "total_label": "Total value",
+      "total_value": "$4,785+",
+      "price_label": "Your price today",
+      "price_strike": "$197",
+      "price": "$97"
+    },
+    "urgency": {
+      "headline": "This Price Disappears When the Event Begins",
+      "body": "The VIP All-Access Pass is $97 today. When the event begins on November 16, the price increases to $197, and it won't come back down. If you're on the fence, here's the simplest way to think about it: the 1-hour consultation with Chuck alone is worth $995. You're getting that, plus five other components, for $97. This is the easiest decision you'll make today.",
+      "cta": "Yes. Upgrade Me to VIP for $97 →",
+      "sub": "Secure checkout · Instant access to your VIP confirmation · Price increases when the event begins"
+    },
+    "who_for": {
+      "headline": "The VIP Pass Is Perfect for You If...",
+      "bullets": [
+        "You want to leave this event with a real plan, not just notes",
+        "You're serious about building a partnership-based growth system in the next 90 days",
+        "You want direct access to Chuck's network through personal introductions",
+        "You know the value of a warm introduction from the right person",
+        "You want to keep learning after the event ends with lifetime access to the recordings"
+      ]
+    },
+    "consultation": {
+      "headline": "What Happens in Your Hour with Chuck?",
+      "body_1": "Most people leave events inspired but unclear on their next move. That's not what this consultation is for.",
+      "body_2": "In your 60 minutes together, Chuck will review your current offer, your audience, and your goals, and help you identify exactly who your ideal collaboration partners are, how to reach out to them, and what a realistic 90-day partnership campaign looks like for your specific situation.",
+      "bullets": [
+        "A clear picture of who to partner with and why",
+        "A simple outreach framework tailored to your offer",
+        "Specific next steps you can take the week after the event",
+        "Chuck's personal recommendations for your situation"
+      ],
+      "closing": "This is the call most people wish they had before spending months figuring it out on their own."
+    },
+    "testimonials": {
+      "headline": "What Past VIP Attendees Are Saying",
+      "items": [
+        {
+          "quote": "[2-4 sentence quote about a specific result from a past VIP experience: new clients, partnerships formed, or clarity gained from the consultation.]",
+          "name": "[First Name Last Name]",
+          "title": "[Title]"
+        },
+        {
+          "quote": "[2-4 sentence quote about the Coaching Zone sessions or the introductions received: specific outcome, not generic praise.]",
+          "name": "[First Name Last Name]",
+          "title": "[Title]"
+        },
+        {
+          "quote": "[2-4 sentence quote about the recordings or the masterclass access: how they continued implementing after the event.]",
+          "name": "[First Name Last Name]",
+          "title": "[Title]"
+        }
+      ]
+    },
+    "final_cta": {
+      "headline": "This Is Your Moment. Don't Leave It on the Table.",
+      "body": "You already made the decision to register. That tells me you're serious about growing your business differently. The VIP pass takes that decision one step further. It gives you the structure, the support, the connections, and the plan to make sure this event actually changes something, not just for three days, but for the next year. $97 today. $197 when the event begins.",
+      "cta": "Yes. Upgrade Me to VIP for $97 →",
+      "no_thanks": "No thanks. I'll stick with my free registration and proceed to my confirmation page."
+    }
+  },
+  "thankyou": {
+    "headline": "You're In. See You November 16.",
+    "sub": "Check your inbox for your confirmation email from chuck@eventaffiliates.com. If you don't see it within a few minutes, check your spam folder and mark it as not spam.",
+    "next_steps": [
+      {
+        "num": "1",
+        "title": "Check your email",
+        "text": "Your confirmation and event access details are on their way to your inbox right now."
+      },
+      {
+        "num": "2",
+        "title": "Save the dates",
+        "text": "November 16, 17, and 18, 2026. Block them in your calendar now before anything else fills that time."
+      },
+      {
+        "num": "3",
+        "title": "Join the community",
+        "text": "Connect with other attendees before the event begins. Details will be in your confirmation email."
+      },
+      {
+        "num": "4",
+        "title": "Tell someone who needs this",
+        "text": "Know a coach or consultant who struggles with inconsistent leads? Share this event with them. They'll thank you later."
+      }
+    ],
+    "share_headline": "Know Someone Who Needs This?",
+    "share_body": "If you know a coach, consultant, or service provider who is tired of chasing clients through content and referrals, share this event with them. Your next collaboration partner might be one introduction away.",
+    "share_cta": "Share the Event →",
+    "share_url": "https://CollaboratorsUniteExperience.com"
+  }
+}
