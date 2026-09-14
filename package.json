@@ -1,0 +1,11 @@
+{
+  "name": "collaborators-unite-site",
+  "version": "1.0.0",
+  "description": "The Collaborators UNITE Experience landing page",
+  "scripts": {
+    "start": "npx serve . --single --listen 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}

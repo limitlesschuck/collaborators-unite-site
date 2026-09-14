@@ -22,6 +22,8 @@
   "rewrites": [
     { "source": "/vip", "destination": "/vip.html" },
     { "source": "/thank-you", "destination": "/thank-you.html" },
-    { "source": "/optin", "destination": "/optin.html" }
+    { "source": "/optin", "destination": "/optin.html" },
+    { "source": "/apply-to-speak", "destination": "/apply-to-speak.html" },
+    { "source": "/apply-to-coach", "destination": "/apply-to-coach.html" }
   ]
 }
