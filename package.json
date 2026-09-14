@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "The Collaborators UNITE Experience landing page",
   "scripts": {
-    "start": "npx serve . --single --listen $PORT"
+    "start": "npx serve . --listen $PORT"
   },
   "dependencies": {
     "serve": "^14.2.0"
