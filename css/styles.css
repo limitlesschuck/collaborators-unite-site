@@ -331,7 +331,7 @@ blockquote.pull footer {
 .form-input {
   padding: 14px 16px; border: 1.5px solid rgba(28,36,57,0.2);
   border-radius: 10px; font-size: 17px; font-family: var(--font-body);
-  color: var(--navy); background: var(--cream);
+  color: var(--navy); background: #FFFFFF;
   transition: border-color 0.15s;
   width: 100%;
 }
