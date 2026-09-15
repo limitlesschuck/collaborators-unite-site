@@ -24,6 +24,7 @@
     { "source": "/thank-you", "destination": "/thank-you.html" },
     { "source": "/optin", "destination": "/optin.html" },
     { "source": "/apply-to-speak", "destination": "/apply-to-speak.html" },
+    { "source": "/speaker-application", "destination": "/speaker-application.html" },
     { "source": "/apply-to-coach", "destination": "/apply-to-coach.html" }
   ]
 }
