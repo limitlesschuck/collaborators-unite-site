@@ -13,7 +13,7 @@
 <header class="nav">
   <div class="nav-inner">
     <span class="nav-logo">Collaborators <span style="color:var(--gold-dark);">UNITE</span></span>
-    <a href="https://go.collaboratorsunite.com/apply-to-coach" class="btn">Apply To Coach →</a>
+    <a href="#apply" class="btn">Apply To Coach →</a>
   </div>
 </header>
 
@@ -25,7 +25,7 @@
     </div>
     <h1 class="h1" style="color: var(--offwhite); font-size: clamp(36px,5.5vw,62px);">Get Matched with Clients Who <span class="text-amber">Already Need Your Help.</span></h1>
     <p class="lead lead-light max-680" style="margin: 0 auto 36px;">The Coaching Zone puts you in front of 75 VIP All-Access Pass holders, pre-matched based on the specific help they need. Not cold outreach. Not random networking. A curated introduction to people who are already looking for what you offer.</p>
-    <a href="https://go.collaboratorsunite.com/apply-to-coach" class="btn btn-xl">Apply To Be A Featured Coach →</a>
+    <a href="#apply" class="btn btn-xl">Apply To Be A Featured Coach →</a>
     <p style="font-size: 14px; color: rgba(254,246,228,0.55); margin: 18px 0 0;">Limited to 6–10 coaches. Recruitment closes September 15, 2026.</p>
   </div>
 </section>
@@ -183,13 +183,140 @@
   </div>
 </section>
 
-<!-- CTA -->
-<section class="section section-amber" style="background: var(--amber); padding: 80px 24px; text-align: center;">
+<!-- APPLICATION FORM -->
+<section class="section section-cream" style="padding: 80px 24px;" id="apply">
   <div class="container-narrow">
-    <h2 class="h2" style="color: var(--navy); font-size: clamp(28px,4vw,44px);">Ready to Get in the Room?</h2>
-    <p style="font-size: clamp(17px,2vw,19px); line-height: 1.62; color: var(--navy); max-width: 620px; margin: 0 auto 36px; opacity: 0.85;">Only 6–10 Featured Coach spots are available for this event. Recruitment closes September 15, 2026. The next step is a quick conversation with Chuck to confirm fit and discuss your commission rate.</p>
-    <a href="https://go.collaboratorsunite.com/apply-to-coach" class="btn btn-xl" style="background: var(--navy); color: var(--amber);">Apply To Be A Featured Coach →</a>
-    <p style="font-size: 14px; color: rgba(28,36,57,0.65); margin: 18px 0 0;">Questions? Email <a href="mailto:chuck@eventaffiliates.com" style="color: var(--navy); font-weight: 700;">chuck@eventaffiliates.com</a></p>
+    <h2 class="h2 h2-navy" style="margin-bottom: 8px;">Apply To Be A Featured Coach</h2>
+    <p style="font-size: 17px; line-height: 1.62; color: var(--muted); margin: 0 0 48px;">Complete the form below to be considered as a Featured Coach in the Coaching Zone at The Collaborators UNITE Experience — November 16–18, 2026. Spots are limited to 6–10 coaches.</p>
+
+    <form action="https://formspree.io/f/xaeyrvbz" method="POST" id="coach-form">
+
+      <!-- CONTACT -->
+      <div style="margin-bottom: 40px;">
+        <h3 style="font-family: var(--font-head); font-weight: 800; font-size: 13px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--amber); margin: 0 0 20px;">Contact</h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px;">
+          <div class="form-field">
+            <label class="form-label" for="c-name">Full Name *</label>
+            <input class="form-input" type="text" id="c-name" name="full_name" required placeholder="Your full name">
+          </div>
+          <div class="form-field">
+            <label class="form-label" for="c-email">Email Address *</label>
+            <input class="form-input" type="email" id="c-email" name="email" required placeholder="your@email.com">
+          </div>
+          <div class="form-field">
+            <label class="form-label" for="c-phone">Cell Phone Number *</label>
+            <input class="form-input" type="tel" id="c-phone" name="phone" required placeholder="+1 (000) 000-0000">
+          </div>
+          <div class="form-field">
+            <label class="form-label" for="c-website">Website URL *</label>
+            <input class="form-input" type="url" id="c-website" name="website" required placeholder="https://yourwebsite.com">
+          </div>
+        </div>
+      </div>
+
+      <!-- YOUR COACHING -->
+      <div style="margin-bottom: 40px;">
+        <h3 style="font-family: var(--font-head); font-weight: 800; font-size: 13px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--amber); margin: 0 0 20px;">Your Coaching</h3>
+        <div style="display: flex; flex-direction: column; gap: 16px;">
+          <div class="form-field">
+            <label class="form-label" for="c-specialty">What is your coaching specialty? *</label>
+            <input class="form-input" type="text" id="c-specialty" name="coaching_specialty" required placeholder="e.g. Business growth, mindset, marketing, leadership">
+          </div>
+          <div class="form-field">
+            <label class="form-label" for="c-audience">Who is your ideal coaching client? *</label>
+            <textarea class="form-input" id="c-audience" name="ideal_client" required rows="3" placeholder="Describe who you work best with and what challenges you help them solve" style="resize: vertical;"></textarea>
+          </div>
+          <div class="form-field">
+            <label class="form-label" for="c-results">Describe a result or transformation a recent client achieved through working with you *</label>
+            <textarea class="form-input" id="c-results" name="client_results" required rows="4" placeholder="Be as specific as possible" style="resize: vertical;"></textarea>
+          </div>
+          <div class="form-field">
+            <label class="form-label" for="c-offer">What coaching offer or program do you typically sell? *</label>
+            <textarea class="form-input" id="c-offer" name="coaching_offer" required rows="3" placeholder="Describe your main offer, program, or service and its price" style="resize: vertical;"></textarea>
+          </div>
+        </div>
+      </div>
+
+      <!-- FIT FOR THE COACHING ZONE -->
+      <div style="margin-bottom: 40px;">
+        <h3 style="font-family: var(--font-head); font-weight: 800; font-size: 13px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--amber); margin: 0 0 20px;">Fit for the Coaching Zone</h3>
+        <div style="display: flex; flex-direction: column; gap: 16px;">
+          <div class="form-field">
+            <label class="form-label" for="c-vip-fit">The Coaching Zone VIPs are coaches, consultants, and service providers growing their businesses. How does your coaching serve this audience? *</label>
+            <textarea class="form-input" id="c-vip-fit" name="vip_fit" required rows="4" placeholder="Explain why your coaching is a strong fit for this specific audience" style="resize: vertical;"></textarea>
+          </div>
+          <div class="form-field">
+            <label class="form-label" for="c-sessions">How many 1-on-1 coaching sessions can you realistically accommodate during the 3-day event? *</label>
+            <select class="form-input" id="c-sessions" name="session_capacity" required style="cursor: pointer;">
+              <option value="" disabled selected>Select a range</option>
+              <option value="5–7 sessions">5–7 sessions</option>
+              <option value="8–10 sessions">8–10 sessions</option>
+              <option value="11–15 sessions">11–15 sessions</option>
+              <option value="15+ sessions">15+ sessions</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- PROMOTION -->
+      <div style="margin-bottom: 40px;">
+        <h3 style="font-family: var(--font-head); font-weight: 800; font-size: 13px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--amber); margin: 0 0 20px;">Your Promotion Commitment</h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 16px;">
+          <div class="form-field">
+            <label class="form-label" for="c-list">How large is your email list? *</label>
+            <input class="form-input" type="text" id="c-list" name="email_list_size" required placeholder="e.g. 2,500">
+          </div>
+          <div class="form-field">
+            <label class="form-label" for="c-social">How large is your social media following? (combined) *</label>
+            <input class="form-input" type="text" id="c-social" name="social_following" required placeholder="e.g. 5,000">
+          </div>
+        </div>
+        <div class="form-field" style="margin-top: 16px;">
+          <label class="form-label" for="c-promote">Are you willing to promote this event to your audience? *</label>
+          <select class="form-input" id="c-promote" name="willing_to_promote" required style="cursor: pointer;">
+            <option value="" disabled selected>Select an option</option>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+            <option value="Yes with conditions">Yes with conditions</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- AGREEMENT -->
+      <div style="margin-bottom: 40px;">
+        <h3 style="font-family: var(--font-head); font-weight: 800; font-size: 13px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--amber); margin: 0 0 20px;">Agreement</h3>
+        <div style="display: flex; flex-direction: column; gap: 14px;">
+          <label style="display: flex; gap: 14px; align-items: flex-start; cursor: pointer; font-size: 15px; line-height: 1.55; color: var(--navy);">
+            <input type="checkbox" name="agree_promote" value="Yes" required style="accent-color: var(--amber); width: 18px; height: 18px; flex: none; margin-top: 2px;">
+            I agree to promote The Collaborators UNITE Experience to my audience a minimum of 3 times during the promotional period (November 6–16, 2026)
+          </label>
+          <label style="display: flex; gap: 14px; align-items: flex-start; cursor: pointer; font-size: 15px; line-height: 1.55; color: var(--navy);">
+            <input type="checkbox" name="agree_commission" value="Yes" required style="accent-color: var(--amber); width: 18px; height: 18px; flex: none; margin-top: 2px;">
+            I understand the $495 program fee is a prepaid commission credit and is non-refundable
+          </label>
+          <label style="display: flex; gap: 14px; align-items: flex-start; cursor: pointer; font-size: 15px; line-height: 1.55; color: var(--navy);">
+            <input type="checkbox" name="agree_commission_reporting" value="Yes" required style="accent-color: var(--amber); width: 18px; height: 18px; flex: none; margin-top: 2px;">
+            I agree to self-report and pay commission on sales closed with matched VIPs within the 90-day post-event window, due at the end of each month in which a sale closes
+          </label>
+          <label style="display: flex; gap: 14px; align-items: flex-start; cursor: pointer; font-size: 15px; line-height: 1.55; color: var(--navy);">
+            <input type="checkbox" name="agree_sessions" value="Yes" required style="accent-color: var(--amber); width: 18px; height: 18px; flex: none; margin-top: 2px;">
+            I understand my position as a Featured Coach is not confirmed until payment has been received in full
+          </label>
+        </div>
+      </div>
+
+      <!-- SUBMIT -->
+      <button type="submit" class="btn btn-lg" style="width: 100%; justify-content: center; font-size: 19px;">Submit My Application →</button>
+      <p style="font-size: 13px; color: var(--muted); text-align: center; margin: 16px 0 0;">We review every application personally. You'll hear from us within 2 business days.</p>
+
+    </form>
+
+    <!-- SUCCESS MESSAGE -->
+    <div id="coach-success" style="display: none; background: var(--offwhite); border: 2px solid var(--amber); border-radius: var(--radius-card); padding: 48px; text-align: center; margin-top: 32px;">
+      <div style="width: 56px; height: 56px; border-radius: 50%; background: var(--amber); display: flex; align-items: center; justify-content: center; margin: 0 auto 20px; font-size: 26px;">✓</div>
+      <h3 style="font-family: var(--font-head); font-weight: 800; font-size: 24px; color: var(--navy); margin: 0 0 12px;">Application Received!</h3>
+      <p style="font-size: 17px; line-height: 1.62; color: var(--body); margin: 0;">Thank you for applying to be a Featured Coach. We review every application personally and will be in touch within 2 business days.</p>
+    </div>
   </div>
 </section>
 

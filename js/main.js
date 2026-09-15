@@ -14,7 +14,39 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 
-/* ── SPEAKER RENDERER ──────────────────────────────────────────────────── */
+/* ── FORMSPREE AJAX SUBMISSION ─────────────────────────────────────────── */
+// Handles both speak and coach forms — shows success message without page reload
+['speak-form', 'coach-form'].forEach(id => {
+  const form = document.getElementById(id);
+  if (!form) return;
+  const successId = id.replace('-form', '-success');
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const btn = form.querySelector('[type="submit"]');
+    btn.textContent = 'Submitting...';
+    btn.disabled = true;
+    try {
+      const res = await fetch(form.action, {
+        method: 'POST',
+        body: new FormData(form),
+        headers: { 'Accept': 'application/json' }
+      });
+      if (res.ok) {
+        form.style.display = 'none';
+        document.getElementById(successId).style.display = 'block';
+        document.getElementById(successId).scrollIntoView({ behavior: 'smooth', block: 'center' });
+      } else {
+        btn.textContent = 'Something went wrong. Please try again.';
+        btn.disabled = false;
+      }
+    } catch {
+      btn.textContent = 'Something went wrong. Please try again.';
+      btn.disabled = false;
+    }
+  });
+});
+
+
 // Reads speakers.json and renders speaker cards into any element with
 // id="speaker-grid". Adds a "More speakers coming soon" card at the end.
 // To add a speaker: edit speakers.json and drop their photo in /images/
